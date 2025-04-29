@@ -189,5 +189,5 @@ Blenderの標準の機能では、ワイルドカードの「*」の記号が使
 
 ## Author
 
-GitHub:[Samia](https://github.com/samia_done)  
+GitHub:[Samia](https://github.com/samia_done) [mugi-mmder](https://github.com/mugi-mmder) 
 Twitter:[@samia_done](https://twitter.com/samia_done)
